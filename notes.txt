@@ -1,0 +1,9 @@
+Servo Driver:
+Adafruit_PCA9685.PCA9685(address=0x40, busnum=1)
+Serve0: Head Up/Down
+Servo1: Head Left/Right
+Servo2: Turn Left/Right
+
+Motor_B_EN    = 17
+Motor_B_Pin1  = 27
+Motor_B_Pin2  = 18
